@@ -9,7 +9,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="container">
         <div id="logo">
-        <img src="/logo.png" alt="Logo" width="50" height="50" />
+        <img src={`${process.env.PUBLIC_URL}/logo.png`} alt="Logo" width="50" height="50" />
         <h1 className="logo">Pitch</h1>
         </div>
 
