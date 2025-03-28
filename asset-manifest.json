@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pitch-clone/static/css/main.244a72b5.css",
+    "main.js": "/pitch-clone/static/js/main.beba0df4.js",
+    "static/js/453.3bdce996.chunk.js": "/pitch-clone/static/js/453.3bdce996.chunk.js",
+    "static/media/object_5.png": "/pitch-clone/static/media/object_5.e29be8995b76af3a8d13.png",
+    "static/media/objcet_1.png": "/pitch-clone/static/media/objcet_1.c7248955eac382f8141a.png",
+    "static/media/object_2.png": "/pitch-clone/static/media/object_2.16b3170d89962d511ad0.png",
+    "static/media/object_4.png": "/pitch-clone/static/media/object_4.9f6ab289b57a3acc11e6.png",
+    "static/media/object_3.png": "/pitch-clone/static/media/object_3.80854e204095e3872cb2.png",
+    "index.html": "/pitch-clone/index.html",
+    "main.244a72b5.css.map": "/pitch-clone/static/css/main.244a72b5.css.map",
+    "main.beba0df4.js.map": "/pitch-clone/static/js/main.beba0df4.js.map",
+    "453.3bdce996.chunk.js.map": "/pitch-clone/static/js/453.3bdce996.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.244a72b5.css",
+    "static/js/main.beba0df4.js"
+  ]
+}
